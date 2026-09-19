@@ -7,7 +7,7 @@ authors = [
     "Gábor Krisztián Girhiny <gk.project72@gmail.com>",
 ]
 description = "Convenience tool for building and running C++ code."
-homepage = "https://github.com/ystre/baldr"
+homepage = "https://github.com/ystre/baldr-rs"
 documentation = "http://docs.rs/baldr/"
 readme = "README.md"
 keywords = [
@@ -18,7 +18,7 @@ keywords = [
 ]
 categories = ["development-tools::build-utils"]
 license = "MIT"
-repository = "https://github.com/ystre/baldr.git"
+repository = "https://github.com/ystre/baldr-rs.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
